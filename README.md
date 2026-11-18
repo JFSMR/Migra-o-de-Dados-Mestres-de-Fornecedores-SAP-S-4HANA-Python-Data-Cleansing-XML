@@ -97,8 +97,8 @@ ltmc-supplier-bp-migration/
 ├── README.md
 ├── requirements.txt
 ├── src/
-│   ├── gerar_xml_ltmc.py              ← Script principal (refatorado)
-│   └── gerar_xml_ltmc_original.py     ← Versão original do projeto
+│   ├── gerar_xml_ltmc.py          ← Versão 2.0 (refatorada e modular)
+│   └── gerar_xml_ltmc_v1.py       ← Versão 1.0 (protótipo funcional)
 ├── data/
 │   ├── raw/                           ← Dados sujos
 │   └── processed/                     ← Dados limpos
